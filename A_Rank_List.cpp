@@ -26,7 +26,6 @@ int main()
             }
         }
     }
-   
     int cnt=0;
     for(int i=0;i<size;i++){
         if(v[i]==v[pos-1]) cnt++;
